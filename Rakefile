@@ -31,7 +31,7 @@ EOS
                        '--main' << 'README.txt' <<
                        '--line-numbers'
 
-	s.add_dependency("highline", ">= 1.2.1")
+	s.add_dependency("highline", ">= 1.6.2")
 	s.add_dependency("commandline", ">= 0.7.10")
 
 end
